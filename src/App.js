@@ -1,9 +1,13 @@
+import MyHeading from "./components/MyHeading"
+
+
 const App = ()=>{
   return(
     <div>
-      <h1>Welcome Page 1</h1>
+      <MyHeading/>
+      <h1>Welcome to React</h1>
     </div>
-
+  
   )
 }
 

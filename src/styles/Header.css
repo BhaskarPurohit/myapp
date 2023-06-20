@@ -1,0 +1,15 @@
+nav{
+    background-color: rebeccapurple;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.465);
+    padding: 3rem;
+}
+nav a{
+    display: inline-flex;
+    
+    justify-content: space-between;
+    text-align: center;
+    font: 600 1.5rem cursive;
+    color: rgb(37, 105, 208);
+    text-decoration: none;
+
+}
